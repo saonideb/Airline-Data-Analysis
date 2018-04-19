@@ -1,0 +1,844 @@
+2015,1,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",767,278,29.88,0,211.41,0,36.71,4,1,18549,2041,0,14114,0,2394
+2015,1,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",333,96,19.32,0.13,58.61,0,17.93,4,1,7004,1388,7,4095,0,1514
+2015,1,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1082,268,41.99,3.72,180.25,0,42.04,16,3,13764,2177,200,8921,0,2466
+2015,1,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",248,72,13.76,0.1,48.39,1.41,8.34,2,0,3510,712,2,2120,62,614
+2015,1,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",341,66,10.16,0.96,42.09,0,12.79,9,0,3947,545,113,2441,0,848
+2015,1,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",124,24,4.97,0,14.76,1,3.26,8,0,1191,237,0,643,39,272
+2015,1,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",744,152,26.04,0,106.22,0,19.74,4,1,8459,1241,0,5649,0,1569
+2015,1,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",128,26,5.16,0,12.73,0,8.11,0,0,1575,352,0,764,0,459
+2015,1,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",417,90,11.71,0.89,63.86,0,13.54,2,0,5121,495,29,3553,0,1044
+2015,1,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",35,4,0,0,4,0,0,0,0,239,0,0,239,0,0
+2015,1,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",155,26,6.32,0.62,17.36,0,1.7,10,2,1536,259,58,1087,0,132
+2015,1,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",723,171,19.48,0.34,125.17,1.12,24.89,7,2,11981,1654,30,7769,246,2282
+2015,1,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,39,3.96,0,27.64,0,7.4,0,0,2528,225,0,1528,0,775
+2015,1,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",338,130,17.73,0.12,106.29,0,5.86,15,1,7059,567,7,6157,0,328
+2015,1,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",274,76,16.74,0.22,51.56,0,7.48,2,0,5622,1023,7,3651,0,941
+2015,1,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",93,27,4.45,0,14.84,0,7.71,0,0,1566,191,0,840,0,535
+2015,1,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",341,108,22.11,0,73.85,0,12.04,2,0,6339,1630,0,3812,0,897
+2015,1,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",17,4,0.47,0,2.31,0,1.21,0,0,264,15,0,211,0,38
+2015,1,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",695,202,27.58,0.4,144.54,0,29.48,4,0,11282,1355,12,7744,0,2171
+2015,1,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",124,18,3.27,0.73,11.41,0,2.59,1,1,1102,178,16,740,0,168
+2015,1,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",360,108,19.19,0.49,74.19,0,14.13,2,0,6083,987,13,3877,0,1206
+2015,1,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",62,8,0.61,0,6.57,0,0.83,2,0,211,25,0,153,0,33
+2015,1,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,9,2.63,0,5.95,0,0.42,0,1,331,72,0,249,0,10
+2015,1,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",62,21,2.23,1.34,15.44,0,1.99,2,0,1954,159,63,1565,0,167
+2015,1,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",274,75,17.32,0,49.14,0,8.54,0,0,3897,601,0,2748,0,548
+2015,1,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",155,45,9.87,0.18,26.67,0,8.28,0,0,2854,540,16,1704,0,594
+2015,1,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",31,9,0.05,0,7.67,1,0.28,1,0,349,1,0,309,32,7
+2015,1,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",131,40,5.6,0.59,27.27,0,6.53,0,0,3122,279,22,1771,0,1050
+2015,1,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",274,89,16.4,0.18,60.02,0.31,12.09,0,0,5307,1007,12,3326,5,957
+2015,1,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",31,13,1.08,0,9.97,0,1.96,1,0,381,27,0,262,0,92
+2015,1,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",61,16,4.55,0,11.45,0,0,0,0,544,158,0,386,0,0
+2015,1,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",155,34,4.73,0,21.69,0,7.59,0,0,2062,171,0,1368,0,523
+2015,1,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",13,2,0,0,1,0,1,0,0,156,0,0,112,0,44
+2015,2,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",995,290,64.76,10.64,129.93,0.73,83.95,24,2,17877,4801,710,6676,25,5665
+2015,2,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",307,101,27.74,3.17,43.78,0,26.32,5,0,6983,1613,174,3153,0,2043
+2015,2,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",118,32,8.18,0,18.35,0,5.46,14,0,2052,536,0,1059,0,457
+2015,2,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",190,63,14.93,0.77,39.52,0,7.78,16,0,3117,866,26,1649,0,576
+2015,2,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",678,173,42.07,3.9,85.58,0.21,41.25,43,1,11667,2638,733,4080,26,4190
+2015,2,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",112,17,2.54,0.7,4.68,0,9.08,2,0,873,71,81,350,0,371
+2015,2,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",648,215,41.79,0.93,106.15,0,66.13,16,0,12986,2021,66,5163,0,5736
+2015,2,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",361,115,39.3,3.55,50.72,0,21.44,7,0,7352,2791,344,2507,0,1710
+2015,2,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",716,324,52.02,1.26,193.73,0,76.99,33,2,19913,3100,93,10547,0,6173
+2015,2,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",315,117,32.82,3.65,54.17,0,26.35,12,1,7800,2703,485,2839,0,1773
+2015,2,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",671,176,46.59,5.49,75.58,0,48.34,10,0,11838,2513,473,4283,0,4569
+2015,2,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",308,95,21.22,0.13,34.7,0.12,38.84,3,0,5771,1105,9,1682,4,2971
+2015,2,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",33,8,1.09,0,5.22,0,1.69,4,0,304,31,0,160,0,113
+2015,2,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",27,7,3.04,0,2.09,0.1,1.77,0,0,509,150,0,95,24,240
+2015,2,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",144,41,12.8,2.57,8.88,0,16.75,3,0,2476,767,226,337,0,1146
+2015,2,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",252,93,27.2,3.07,45.67,0,17.06,6,0,5999,1991,198,2405,0,1405
+2015,2,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",76,23,5.91,0.24,9.97,0,6.88,1,0,1121,369,13,306,0,433
+2015,2,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",252,82,19.62,3.66,33.3,0,25.41,4,0,5792,1196,371,1664,0,2561
+2015,2,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",91,31,9.37,0,4.5,0,17.14,4,0,2183,531,0,155,0,1497
+2015,2,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",306,124,20.85,1.38,88.57,0.75,12.45,18,2,6921,1329,138,4722,15,717
+2015,2,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",113,29,5.95,0,7.79,0,15.25,4,0,2105,353,0,445,0,1307
+2015,2,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",324,85,21.5,4.6,33.78,0.64,24.48,0,1,6363,1488,519,1569,21,2766
+2015,2,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",56,19,3.31,0.76,13.25,0,1.68,3,1,998,200,93,585,0,120
+2015,2,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",28,5,1.77,0,2.23,0,1,0,0,407,165,0,125,0,117
+2015,2,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",56,12,1.9,1.18,4.68,0,4.24,5,0,1372,344,157,567,0,304
+2015,2,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",224,59,22.41,2.45,23.73,0.1,10.32,6,0,2967,1150,65,921,9,822
+2015,2,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",116,41,10.45,2.89,17.94,0,9.73,3,0,2525,448,293,782,0,1002
+2015,2,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",252,90,28.52,5.98,39.35,0.96,15.2,13,0,5619,1517,654,2284,22,1142
+2015,2,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",112,42,11.17,2.23,17.52,0,11.08,4,0,2732,892,137,814,0,889
+2015,2,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",140,37,6.8,0.9,17.04,0.85,11.42,3,0,1986,350,84,856,33,663
+2015,2,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",28,6,2.6,0,0.73,0,2.66,0,0,293,156,0,33,0,104
+2015,2,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",12,4,0.58,0,1.42,0,2,0,0,169,15,0,42,0,112
+2015,2,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",28,10,3.81,0,4.72,0,1.47,0,0,546,197,0,242,0,107
+2015,3,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",31,4,1.16,0,0.04,0,2.8,1,0,174,48,0,2,0,124
+2015,3,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",805,298,48.73,5.32,170.18,0.78,72.99,14,0,18666,2642,418,9671,40,5895
+2015,3,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",374,98,25.71,3.38,46.63,0,22.27,2,1,6818,2029,208,2968,0,1613
+2015,3,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1102,260,59.6,4.61,107.55,2.79,85.44,19,1,15120,3228,277,5475,102,6038
+2015,3,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",266,52,13.31,0,35.61,0,3.08,10,1,3064,799,0,1886,0,379
+2015,3,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",341,92,23.76,2.64,37.83,0.98,26.79,1,0,5365,1072,462,2287,41,1503
+2015,3,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",437,92,30.2,2.15,36.13,0.22,23.3,3,1,4784,1483,71,1501,31,1698
+2015,3,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",248,54,19.37,0.88,25.89,0,7.87,1,0,2645,957,50,1241,0,397
+2015,3,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",360,76,27.21,1,23.16,0,24.63,3,0,3414,833,54,918,0,1609
+2015,3,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",62,6,1.22,0,2.92,0,1.87,0,0,413,153,0,103,0,157
+2015,3,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",751,184,53.18,1.13,84.84,0,44.86,11,0,10281,2718,129,3724,0,3710
+2015,3,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,31,9.14,0,13.96,0,7.9,2,0,1770,554,0,621,0,595
+2015,3,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,115,22.92,1.09,82.56,0,8.43,29,0,6639,1475,38,4537,0,589
+2015,3,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",289,71,24.89,1.53,24.62,0,19.96,2,1,5428,1728,218,1265,0,2217
+2015,3,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",109,18,3.72,0.89,6.29,0,7.1,3,0,1274,377,97,306,0,494
+2015,3,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",775,150,47.48,1.68,54.97,0.28,45.6,7,1,12348,3649,140,4369,5,4185
+2015,3,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",154,32,13.68,0,8.37,0,9.95,2,0,1702,561,0,594,0,547
+2015,3,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",751,198,51.05,0.49,88.67,0.75,57.04,11,0,12145,2543,19,4044,15,5524
+2015,3,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",155,20,4.83,1.56,5.98,0,7.63,1,0,1475,373,241,302,0,559
+2015,3,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",129,26,11.51,0.07,7.07,0,7.36,0,0,1550,648,9,419,0,474
+2015,3,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",371,75,19.82,0.31,32.28,0.14,22.45,1,1,4741,1802,13,1450,4,1472
+2015,3,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",163,32,12.58,1.4,14.81,0,3.21,2,0,2062,672,276,604,0,510
+2015,3,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,8,3.65,0,1.7,0,2.65,0,0,485,257,0,148,0,80
+2015,3,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",71,18,3.59,2.61,5.16,0,6.65,4,0,1617,135,383,584,0,515
+2015,3,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",279,79,21.91,0.8,35.32,0,20.96,1,0,5709,1421,106,2375,0,1807
+2015,3,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",5,2,1.01,0,0.01,0,0.98,0,0,167,56,0,1,0,110
+2015,3,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",40,10,5.7,0,2.19,0,2.11,2,0,678,465,0,54,0,159
+2015,3,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",310,78,26.49,0,23.56,1.34,26.61,2,0,4978,1198,0,1238,25,2517
+2015,3,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",124,24,2.57,0.84,11.19,0,9.39,2,0,2157,110,65,878,0,1104
+2015,3,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",155,29,5.91,1.18,11.79,0,10.12,2,0,1361,265,50,401,0,645
+2015,3,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",14,2,0.91,0,1.09,0,0,1,0,125,48,0,77,0,0
+2015,3,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",171,54,16.22,0,17.78,0.45,19.54,0,0,3109,999,0,768,14,1328
+2015,3,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",31,10,5.79,0,1.98,0,2.23,0,0,534,350,0,50,0,134
+2015,3,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",31,7,4.3,0,2.7,0,0,0,0,561,264,0,297,0,0
+2015,4,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",360,65,20.96,0.63,28.96,0.76,13.68,0,0,2751,797,19,1105,16,814
+2015,4,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",30,4,0.61,0,2.39,0,1,0,0,217,20,0,176,0,21
+2015,4,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",793,246,39.69,5.91,147.92,0.25,52.23,5,8,13469,1605,554,7574,20,3716
+2015,4,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",885,268,42.43,4.68,173.1,0.31,47.48,13,1,14546,1951,530,8569,9,3487
+2015,4,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",89,28,5.27,0,18.23,0,4.5,2,0,1167,205,0,714,0,248
+2015,4,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",330,76,16.46,1.3,43.01,0,15.23,5,1,3359,565,27,2126,0,641
+2015,4,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",224,39,12.54,0.25,17.61,0,8.59,1,0,2315,828,8,881,0,598
+2015,4,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",109,25,3.8,0,10.69,0.63,9.89,0,0,1188,150,0,550,10,478
+2015,4,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1040,204,43.1,1.93,91.33,0.63,67.02,6,2,11498,1983,64,4229,10,5212
+2015,4,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",314,84,25.26,1,36.07,0,21.67,4,1,4103,903,219,1551,0,1430
+2015,4,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",781,180,36.94,5.99,88.76,1,47.31,4,0,9983,1737,783,4069,64,3330
+2015,4,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",181,38,6.21,1.3,18.87,0.17,11.45,0,0,1936,393,132,850,10,551
+2015,4,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",225,39,7.08,2,20.95,0,8.97,1,0,2234,317,36,1395,0,486
+2015,4,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",314,98,29.94,1.75,51.76,0,14.56,1,0,5528,1740,148,2676,0,964
+2015,4,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",694,174,42.76,2.04,76.73,0,52.47,3,0,10863,1983,258,4529,0,4093
+2015,4,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",135,22,1.85,0,8.25,0,11.91,1,1,1282,131,0,507,0,644
+2015,4,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",442,139,19.7,1.18,86.76,0,31.36,2,0,7994,792,105,4652,0,2445
+2015,4,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",411,80,23.63,1.63,39.61,0.21,14.91,3,1,3989,1127,144,1552,5,1161
+2015,4,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",211,44,12.41,0.74,20.09,0,10.76,1,0,2155,573,25,807,0,750
+2015,4,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",256,74,20.79,0.94,36.09,0.23,15.96,1,0,3707,945,15,1612,7,1128
+2015,4,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",330,63,10.69,2.03,37.32,0.28,12.68,2,0,3006,340,72,2030,7,557
+2015,4,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",232,61,17.25,0.78,27.37,0.48,15.12,0,0,3433,779,18,1397,12,1227
+2015,4,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",165,38,8.68,1.1,17.91,0,10.31,2,0,2331,458,127,857,0,889
+2015,4,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",344,78,21.79,0.74,36.35,0.24,18.88,4,0,4051,979,17,1730,4,1321
+2015,4,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",30,6,2.21,0,3.06,0,0.74,0,0,256,89,0,128,0,39
+2015,4,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",97,42,9.02,0,18.54,1,13.45,0,0,2202,649,0,1005,15,533
+2015,4,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",150,37,7.98,2.07,14.06,0,12.89,1,2,2275,286,173,668,0,1148
+2015,4,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",15,3,0,0,1,0,2,1,0,168,0,0,35,0,133
+2015,4,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",31,7,4.38,0,2.62,0,0,0,0,330,270,0,60,0,0
+2015,4,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",45,8,4.88,0,1.13,0,2,0,0,291,150,0,20,0,121
+2015,4,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",60,10,4.74,0.72,4.13,0,0.41,0,0,419,206,18,164,0,31
+2015,4,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",136,29,6.52,2.01,11.78,0,8.69,1,0,1943,232,480,775,0,456
+2015,4,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",11,2,0.16,0,0.34,0,1.49,0,0,120,9,0,23,0,88
+2015,4,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",26,10,1.1,0,6.11,0,2.79,0,0,511,51,0,201,0,259
+2015,5,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",630,251,60.46,3.33,79.82,0.29,107.1,12,0,19231,4122,669,5648,23,8769
+2015,5,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",861,290,70.05,7.39,115.79,2.12,94.65,21,0,18615,4325,1165,6011,62,7052
+2015,5,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,97,39.04,4.02,35.76,0,18.18,12,3,6199,2486,373,2090,0,1250
+2015,5,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",155,40,6.16,2.75,17.4,0,13.69,4,1,2929,469,186,1283,0,991
+2015,5,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",403,91,23.21,2.1,32.06,2,31.62,9,0,5098,1422,96,1209,48,2323
+2015,5,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",279,93,25.17,3.33,23.53,1.15,39.83,6,0,6965,1320,277,1462,34,3872
+2015,5,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",310,131,37.12,3.25,47.15,0,43.48,15,0,9984,2375,310,3378,0,3921
+2015,5,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",390,107,40.69,0,30.41,0,35.9,6,0,7052,2781,0,1425,0,2846
+2015,5,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",242,64,20.51,1.67,18.15,0.13,23.54,6,0,3469,1317,74,824,8,1246
+2015,5,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",862,370,76.4,10.91,166.45,0.15,116.1,18,11,26959,4872,1297,9374,14,11402
+2015,5,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",187,61,23.38,1.74,21.69,0,14.19,6,0,3263,1418,141,969,0,735
+2015,5,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",248,79,19.55,2.28,31.39,0,25.78,4,0,5672,1473,198,2113,0,1888
+2015,5,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",403,136,38.91,3.29,54.56,1.26,37.98,12,0,9214,2415,274,3305,66,3154
+2015,5,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",521,250,42.79,5.88,125.36,1.15,74.82,13,6,19228,3375,587,8258,197,6811
+2015,5,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",149,71,18.33,1.08,26.14,0.09,25.36,4,0,5410,1266,90,1827,7,2220
+2015,5,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",62,22,7.99,1.98,6.27,0,5.76,4,0,1267,423,348,193,0,303
+2015,5,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1041,290,72.45,5.49,102.75,2.45,106.85,10,1,20429,3919,356,6003,85,10066
+2015,5,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",330,122,31.23,1.74,44.68,0,44.35,6,0,8308,1321,153,3603,0,3231
+2015,5,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",346,111,38.43,2.62,29.47,0,40.48,5,1,7647,2365,94,2156,0,3032
+2015,5,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",396,167,50.03,7.99,62.45,0.64,45.89,1,0,11795,3612,842,3666,43,3632
+2015,5,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",1023,491,78.3,6.38,250.86,0.96,154.5,28,1,33316,5651,850,14403,27,12385
+2015,5,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",124,57,9.65,1,24.19,0,22.16,7,0,3696,659,15,1480,0,1542
+2015,5,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",13,3,0.4,0,0.07,0,2.53,0,0,294,13,0,3,0,278
+2015,5,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",27,3,0.72,0,0.34,0,1.94,0,0,77,20,0,11,0,46
+2015,5,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",93,37,11.55,1.73,13.7,0,10.03,5,0,2075,566,126,628,0,755
+2015,5,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",140,27,4.24,0.19,7.58,0,14.99,4,0,1896,182,33,488,0,1193
+2015,5,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",22,6,0.17,0,2.16,0,3.67,0,0,219,8,0,62,0,149
+2015,5,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,6,3.04,0,1.13,0,1.84,0,0,199,107,0,22,0,70
+2015,5,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",57,24,7.59,0,4.19,0,12.22,0,0,1593,418,0,227,0,948
+2015,5,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",130,63,15.92,1.7,20.05,0,25.33,3,1,5061,1199,266,1176,0,2420
+2015,5,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",155,68,24.58,1.2,18.62,1.58,22.01,3,1,4765,1608,71,1050,137,1899
+2015,5,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",62,13,4.63,0,1.92,0,6.45,1,0,575,180,0,64,0,331
+2015,5,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",18,7,2,0,2.32,0,2.68,0,0,470,59,0,149,0,262
+2015,6,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1008,427,110.31,3.01,156.29,6.6,150.8,46,0,31739,6964,335,10313,178,13949
+2015,6,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",389,122,34.55,0.89,40.29,0.22,46.05,16,0,9753,3421,155,2180,5,3992
+2015,6,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",377,158,65.86,0.56,44.57,0.13,46.87,7,2,11970,4850,73,3357,14,3676
+2015,6,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",369,177,57.29,0.99,64.32,2.16,52.24,14,4,14017,4429,163,4642,55,4728
+2015,6,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",330,121,40.73,0.36,39.05,0,40.86,9,0,9378,3476,11,2492,0,3399
+2015,6,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",240,89,25.51,0.28,35.83,0,27.38,8,0,7501,2272,73,2172,0,2984
+2015,6,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",330,122,26.23,0.73,69.16,0.02,25.86,31,2,8328,2051,45,4373,3,1856
+2015,6,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",390,193,53.72,0.85,60.37,0,78.06,20,0,16963,4263,76,5155,0,7469
+2015,6,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",240,86,23.88,0,19.47,0,42.65,7,1,7996,2233,0,1409,0,4354
+2015,6,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",608,317,69.79,7.6,111.78,0.5,127.34,22,0,27791,5332,777,7910,15,13757
+2015,6,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",840,364,94.21,5.38,126.81,1.77,135.83,33,1,28741,7173,631,8905,72,11960
+2015,6,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",150,54,24.09,0.9,14.34,0,14.67,6,0,3850,1331,36,1206,0,1277
+2015,6,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",283,130,40.71,3.14,43.41,1.36,41.38,17,1,9901,2704,361,2957,28,3851
+2015,6,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",300,160,38.21,4.04,66.69,0.29,50.78,24,1,11690,2580,265,4438,10,4397
+2015,6,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",829,359,83.49,5.2,124.14,0.73,145.44,41,2,29747,6346,672,8362,17,14350
+2015,6,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",180,53,19.84,0,16.51,0.6,16.05,7,0,3105,1019,0,1000,9,1077
+2015,6,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",390,167,50.95,2.48,58.84,0,54.73,16,3,14425,4477,184,4162,0,5602
+2015,6,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",511,246,58.98,1.89,106.88,0.25,78,32,1,19858,4510,201,7238,5,7904
+2015,6,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",155,78,22.53,1.49,30.49,0,23.49,14,0,7535,1795,169,2723,0,2848
+2015,6,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",60,20,5.48,0,3.59,0,10.93,2,0,1613,325,0,211,0,1077
+2015,6,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",142,56,13.94,0.68,15.98,1,24.4,7,1,3944,1048,59,744,19,2074
+2015,6,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",990,575,101.58,15.89,314.01,1.91,141.6,66,3,47031,8798,1446,22657,80,14050
+2015,6,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",133,83,21.2,0.97,32.98,0,27.84,10,0,7907,1793,176,2601,0,3337
+2015,6,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",13,2,1.14,0,0.05,0,0.82,0,0,38,19,0,1,0,18
+2015,6,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",25,8,1.02,0,1.32,0,5.65,1,0,801,105,0,95,0,601
+2015,6,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",90,45,15.42,1.23,13.95,0,14.39,6,0,2988,807,125,1008,0,1048
+2015,6,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",120,51,20.91,1.62,12.55,0.79,15.13,2,0,3382,1144,164,749,38,1287
+2015,6,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",30,6,1.66,0.8,2.54,0.17,0.82,0,0,324,53,37,181,8,45
+2015,6,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",56,30,8.38,0,9.15,0.06,12.41,2,0,2048,623,0,429,9,987
+2015,6,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",21,7,1.08,0,0.47,0,5.45,0,0,552,126,0,16,0,410
+2015,6,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",150,76,31.42,0.35,19.21,0,25.02,12,0,7445,3339,30,1368,0,2708
+2015,6,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",17,9,1.66,0,1.63,0,5.72,0,0,683,176,0,125,0,382
+2015,6,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",60,28,10.11,0.93,6.66,0,10.29,1,0,1814,749,31,378,0,656
+2015,7,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",434,141,47.68,3.31,47.13,2,40.88,4,3,9448,2892,181,2715,47,3613
+2015,7,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",248,61,18.08,2.52,16.7,0,23.71,1,0,3496,855,100,688,0,1853
+2015,7,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",403,79,25.51,0.1,29.86,3.39,20.14,8,0,3902,1215,15,1629,89,954
+2015,7,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",341,91,23.67,2.69,40.76,1.01,22.86,2,0,6032,1612,143,2279,21,1977
+2015,7,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1040,269,70.27,2.9,113.64,3.12,79.08,4,1,16422,3271,204,6840,70,6037
+2015,7,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",868,247,63.3,1.47,101.71,1,79.53,9,0,14200,3386,81,4720,18,5995
+2015,7,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",1023,375,65.58,6.2,217.88,2.81,82.52,26,0,24467,4600,493,12664,156,6554
+2015,7,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",856,265,69.7,2.1,95.5,2.21,95.5,11,0,15709,3599,283,4396,122,7309
+2015,7,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",155,50,8.71,1.39,21.14,0.6,18.16,0,0,3677,490,54,1515,15,1603
+2015,7,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",10,2,0.83,0,0.06,0,1.11,0,0,44,15,0,1,0,28
+2015,7,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",248,60,14.03,1.27,27.66,0,17.04,2,0,3283,1127,140,1326,0,690
+2015,7,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",333,130,33.64,2.35,62.16,3.36,28.49,2,1,7641,1896,226,2952,90,2477
+2015,7,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",310,126,29.31,1.9,60.46,3.79,30.56,5,1,7210,1391,64,3483,114,2158
+2015,7,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",390,97,22.23,0.79,34.76,0,39.22,2,0,5927,1574,17,1829,0,2507
+2015,7,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,40,12.65,0.84,17.65,0,8.86,2,0,2348,624,68,996,0,660
+2015,7,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",629,193,34.47,3.76,74.17,0.68,79.92,7,0,12971,1503,247,4675,13,6533
+2015,7,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",403,106,21.73,2.34,41.98,1.25,38.71,6,5,6936,1150,162,2280,27,3317
+2015,7,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",527,176,47.85,3.6,72.86,1.99,49.7,10,1,9680,2327,268,3392,47,3646
+2015,7,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",62,14,5.91,0,4.96,0,3.13,0,0,648,281,0,207,0,160
+2015,7,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",449,172,42.23,0.97,88.66,2.5,37.63,5,1,9298,2480,47,4100,62,2609
+2015,7,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,91,19.92,0.7,59.04,0,11.33,11,2,5126,1066,33,3369,0,658
+2015,7,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",146,39,6.59,2.45,10.97,0,18.99,3,1,2281,326,216,545,0,1194
+2015,7,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",178,53,15.95,0.69,18.8,0,17.56,4,1,3797,1363,11,942,0,1481
+2015,7,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",155,41,9.56,0,16.11,0,15.33,1,0,2376,502,0,804,0,1070
+2015,7,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,6,1.86,0,1.4,0,2.73,0,0,311,64,0,48,0,199
+2015,7,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",57,19,4.11,0,5.3,0,9.59,0,0,1005,156,0,159,0,690
+2015,7,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",27,4,0.2,0,1.37,0,2.43,0,0,377,9,0,70,0,298
+2015,7,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",93,32,9.25,0.65,9.65,0,12.45,4,0,1790,377,50,543,0,820
+2015,7,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",147,42,7.09,0.38,19.51,0,15.02,1,1,2070,343,8,893,0,826
+2015,7,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",155,50,21.01,1.69,15.34,1.61,10.34,1,0,3423,1599,221,952,40,611
+2015,7,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",18,7,0.28,0,1.89,0,4.82,0,0,543,17,0,67,0,459
+2015,7,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",26,10,1.16,0,3.63,0,5.21,0,0,399,25,0,168,0,206
+2015,7,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",62,5,0.96,0,0.8,0,3.24,0,0,275,42,0,31,0,202
+2015,8,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",341,104,19.92,0.84,54.28,0.73,28.23,3,1,7647,1086,87,4080,33,2361
+2015,8,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1042,334,70.72,2.26,189.77,1.3,69.96,16,1,23311,5170,333,12212,24,5572
+2015,8,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",248,75,16.36,1.25,32.01,0,25.38,0,2,5018,1187,92,2139,0,1600
+2015,8,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",470,197,45.16,5.84,105.83,0,40.16,3,1,12579,2591,447,6280,0,3261
+2015,8,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",868,262,45.69,5.03,138.56,0,72.72,14,1,18350,2902,326,9703,0,5419
+2015,8,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",1023,351,53.9,1.23,210.22,0.41,85.23,28,3,23956,3206,240,14551,16,5943
+2015,8,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",855,287,58.13,1.48,142.72,0.31,84.35,15,0,21286,3551,123,9775,33,7804
+2015,8,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",155,68,13.22,0.66,31.38,0,22.74,3,0,5606,664,86,2650,0,2206
+2015,8,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",403,123,31.83,2,57.65,0,31.52,5,0,7932,2386,55,2945,0,2546
+2015,8,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,8,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",310,151,41.95,0.55,74.9,0,33.6,9,0,10384,2682,42,4823,0,2837
+2015,8,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",27,10,3.38,0,3.51,0,3.11,0,0,628,309,0,108,0,211
+2015,8,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",93,33,9.04,0,10.53,0.62,12.81,3,1,2429,518,0,761,16,1134
+2015,8,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",341,132,28.17,2.5,68.53,1.79,31.01,4,1,8556,1639,111,4390,41,2375
+2015,8,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",402,128,31.19,0.76,67.28,0,28.77,6,1,7724,1537,53,4057,0,2077
+2015,8,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",477,208,43.57,0,122.73,0.74,40.96,4,0,13677,2451,0,7833,14,3379
+2015,8,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",629,230,34.73,3.58,115.53,0,76.16,10,1,16355,2051,214,7452,0,6638
+2015,8,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",527,215,43.22,5.39,118.59,1.34,46.47,15,2,15231,2376,423,8289,82,4061
+2015,8,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",178,70,15.51,0.06,40.33,0,14.09,5,0,5473,1111,6,3340,0,1016
+2015,8,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",248,85,13.45,0,47.8,0,23.75,3,0,5441,1221,0,2443,0,1777
+2015,8,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,34,9.32,0,17.29,0,7.4,4,0,1753,424,0,1051,0,278
+2015,8,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",391,129,27.09,1.37,69.54,0,31.01,4,0,8856,1898,33,4527,0,2398
+2015,8,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",62,16,3.36,0,6.54,0.19,5.9,0,0,743,146,0,304,7,286
+2015,8,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,94,24.91,2.38,54.99,0,11.72,9,3,6162,1632,191,3554,0,785
+2015,8,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",147,46,5.66,0,20.52,0,19.82,5,0,3606,473,0,1611,0,1522
+2015,8,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",155,46,15.37,0.8,16.23,0,13.59,4,0,3022,883,180,1076,0,883
+2015,8,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,10,6.64,0,2.05,0,1.31,2,0,438,284,0,88,0,66
+2015,8,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",57,15,1.61,0,6.23,0,7.16,1,0,658,81,0,257,0,320
+2015,8,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",155,39,11.82,0,15.8,0,11.38,5,0,2884,996,0,830,0,1058
+2015,8,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",155,61,11.23,2.58,32.4,0.86,13.93,3,1,3545,652,55,1863,19,956
+2015,8,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",18,5,1.4,0,3.3,0,0.3,0,0,139,56,0,77,0,6
+2015,8,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",26,10,1.74,0,2.38,0,5.88,0,0,455,49,0,99,0,307
+2015,8,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",62,19,6.28,0,8.77,0,3.95,3,0,965,252,0,587,0,126
+2015,9,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",254,41,18.53,0.9,10.49,0,11.08,1,2,2359,1023,65,549,0,722
+2015,9,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",893,177,39.47,4.25,84.93,1,47.35,4,2,9675,2421,237,3779,15,3223
+2015,9,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",761,148,36.95,1.53,62.27,0.17,47.08,0,0,8722,2541,49,2761,29,3342
+2015,9,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",180,27,13.54,0,8.02,0,5.44,1,0,1850,1386,0,279,0,185
+2015,9,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",240,61,15.39,0.33,29.16,0,16.12,0,0,3676,1124,9,1447,0,1096
+2015,9,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",606,136,27.45,1.94,65.89,0.3,40.42,1,0,8486,1588,89,3750,6,3053
+2015,9,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",321,37,5.39,1.07,17.65,0.69,12.19,0,0,1723,257,88,657,11,710
+2015,9,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",542,135,35.55,2.58,58.93,0.91,37.03,9,0,7920,1879,85,2843,44,3069
+2015,9,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",321,79,28.76,2.06,35.24,0,12.94,6,2,4611,1574,70,1840,0,1127
+2015,9,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",54,7,3.13,0,1.63,0,2.23,0,0,256,103,0,32,0,121
+2015,9,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",958,222,50.47,0.24,115.1,1.6,54.59,6,0,13331,2508,60,5567,36,5160
+2015,9,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",343,62,17.69,1,31.61,0.5,11.2,2,0,3941,1295,19,1828,12,787
+2015,9,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",474,104,29.25,3.34,47.97,0,23.44,3,1,5562,1612,122,2067,0,1761
+2015,9,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",268,61,19.76,1.82,17.96,0,21.47,0,0,2966,957,51,899,0,1059
+2015,9,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",404,100,38.95,1,36.2,0,23.85,1,0,5187,2202,68,1810,0,1107
+2015,9,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",581,184,48.05,2.78,82.12,0.16,50.9,3,1,12073,2852,149,4233,13,4826
+2015,9,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",330,63,14.52,3.09,36.26,0,9.12,6,1,3014,861,143,1638,0,372
+2015,9,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",303,96,26.1,1,39.33,0.61,28.96,1,0,4450,1171,18,1728,11,1522
+2015,9,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",183,53,13.23,1.5,20.5,0,17.77,3,0,3298,854,54,906,0,1484
+2015,9,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",150,23,8.59,0,9.55,0,4.85,1,0,1229,526,0,396,0,307
+2015,9,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",957,237,40.84,5.83,142.92,0.22,47.17,14,3,12783,2154,393,7122,4,3110
+2015,9,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",15,7,3.14,0,1.97,0,1.89,0,0,904,437,0,95,0,372
+2015,9,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",150,41,12.59,0.73,17.84,0,9.83,1,0,3647,997,22,1442,0,1186
+2015,9,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",95,35,11.1,0.13,13.01,0,10.76,0,0,1771,491,20,589,0,671
+2015,9,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",132,26,10.19,0,11.47,0,4.35,1,0,1309,677,0,447,0,185
+2015,9,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",121,15,4.55,0,3.02,0,7.43,3,0,745,150,0,105,0,490
+2015,9,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",16,3,2.17,0,0.45,0,0.38,0,0,232,174,0,11,0,47
+2015,9,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",69,16,4.42,0,8.03,0,3.55,1,0,789,226,0,293,0,270
+2015,9,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",150,24,5.75,0,7.62,0,10.63,0,0,1377,189,0,270,0,918
+2015,9,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,9,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",39,9,5.4,0,2.49,0,1.11,0,0,555,249,0,175,0,131
+2015,9,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",22,6,0.19,0,2.05,0,3.76,0,0,201,9,0,36,0,156
+2015,9,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,10,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",968,178,11.06,0,162.95,0,3.99,7,4,10314,523,0,9610,0,181
+2015,10,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",418,78,4.82,0,66,0,7.18,3,0,4916,365,0,3429,0,1122
+2015,10,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",328,64,3.05,0,55.77,0,5.18,2,1,3264,85,0,2656,0,523
+2015,10,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",634,183,5.81,0,167.85,0.77,8.57,4,0,9874,300,0,8740,91,743
+2015,10,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",248,44,0.6,0,38.51,0,4.9,3,0,2287,33,0,1865,0,389
+2015,10,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",760,177,4.12,0.14,160.41,0.11,12.22,4,0,9347,203,4,8310,21,809
+2015,10,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,66,0.92,0.58,63.53,0,0.97,2,1,3389,37,64,3154,0,134
+2015,10,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",316,68,2.43,0,63.7,0,1.87,0,0,3140,96,0,2943,0,101
+2015,10,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",949,201,7.38,0.97,180.31,0,12.34,7,1,10428,363,100,9094,0,871
+2015,10,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",271,45,1.98,0,37.94,0.35,4.73,3,0,2641,72,0,2005,89,475
+2015,10,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",195,52,1.36,0,49.71,0,0.93,0,0,2937,116,0,2734,0,87
+2015,10,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",488,94,8.97,0,80.2,0,4.83,5,0,5084,402,0,4270,0,412
+2015,10,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",630,138,4.48,0,125.26,0,8.26,3,0,8890,333,0,7382,0,1175
+2015,10,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",155,24,0.21,0,21.83,0,1.95,2,0,1342,11,0,1176,0,155
+2015,10,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",572,191,9.49,0,175.44,0.67,5.4,2,0,9121,740,0,7944,30,407
+2015,10,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",976,225,8.29,0,206.87,0,9.84,2,1,10737,417,0,9677,0,643
+2015,10,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",9,1,0,0,1,0,0,0,0,17,0,0,17,0,0
+2015,10,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",155,35,1.65,0,30.61,0,2.73,1,0,1785,111,0,1561,0,113
+2015,10,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",155,35,0.8,0,33.2,0,1,0,1,1607,16,0,1523,0,68
+2015,10,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",115,24,2,0,21.09,0,0.91,0,0,1243,42,0,1141,0,60
+2015,10,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",333,49,3.89,0,41.94,0,3.16,2,0,2678,259,0,2183,0,236
+2015,10,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",248,37,4.25,0,32.52,0,0.23,1,1,2058,188,0,1855,0,15
+2015,10,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",22,2,0,0,2,0,0,0,0,118,0,0,118,0,0
+2015,10,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",62,17,0,0,17,0,0,0,0,1236,0,0,1236,0,0
+2015,10,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,25,3.2,0,19.77,0,2.03,1,1,1345,191,0,1038,0,116
+2015,10,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",129,31,1.57,0,25.89,0,3.54,1,0,1818,166,0,1372,0,280
+2015,10,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",117,20,2.65,1,14.4,0,1.95,1,1,1480,91,26,943,0,420
+2015,10,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",317,39,4.48,0,33.66,0,0.86,3,1,3093,442,0,2614,0,37
+2015,10,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",54,9,0,0,9,0,0,1,0,1217,0,0,1217,0,0
+2015,10,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",31,7,0,0,7,0,0,1,0,300,0,0,300,0,0
+2015,10,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",13,4,0,0,4,0,0,0,0,175,0,0,175,0,0
+2015,10,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",13,4,0,0,4,0,0,0,0,209,0,0,209,0,0
+2015,11,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1036,184,52.97,1.69,85.54,0.59,43.21,5,0,10897,4002,55,4071,16,2753
+2015,11,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",212,29,5.08,1.86,18.39,0,3.67,5,0,1371,184,144,817,0,226
+2015,11,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",496,158,40.71,0,93.05,2.08,22.16,3,0,7829,2441,0,3709,56,1623
+2015,11,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",278,42,10.45,1.67,21.2,0.23,8.45,2,0,2569,597,56,1174,7,735
+2015,11,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",319,72,14.82,0.77,33.65,1,21.76,2,1,3934,738,27,1794,18,1357
+2015,11,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",866,246,46.24,2.47,152.97,0.21,44.1,4,0,12150,2317,144,6632,7,3050
+2015,11,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",444,87,31.66,1.25,42.6,0,11.49,1,0,4042,1467,84,1778,0,713
+2015,11,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",286,50,15.83,0,18.42,1,14.75,6,1,2589,1061,0,750,69,709
+2015,11,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",604,170,36.63,3.32,96.55,0.01,33.49,3,1,7461,1777,379,3354,1,1950
+2015,11,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",202,38,8.92,0.46,21.56,0,7.05,1,0,1384,272,19,757,0,336
+2015,11,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",38,8,0.2,0,4.98,0.5,2.32,0,0,277,6,0,202,16,53
+2015,11,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",711,182,44.16,1.35,98.11,0,38.38,8,0,9980,2751,105,4531,0,2593
+2015,11,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",893,207,34.43,5.15,128.9,0,38.52,26,1,15076,2282,797,8901,0,3096
+2015,11,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",94,34,7.14,0.78,15.7,0,10.38,3,0,1957,354,18,648,0,937
+2015,11,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",22,3,0.93,0.32,0.49,0,1.26,0,1,254,96,14,32,0,112
+2015,11,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",130,39,9.04,0.33,21.02,0,8.61,2,0,1967,362,26,990,0,589
+2015,11,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",504,180,30.88,1.2,109.12,0,38.8,3,1,8456,1293,112,4681,0,2370
+2015,11,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",277,58,9.86,0,27.85,0.28,20.01,3,0,3773,752,0,1643,21,1357
+2015,11,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",328,80,27.3,0,33.16,0.93,18.62,2,0,3895,1146,0,1430,91,1228
+2015,11,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",247,32,7.34,0,12.6,0,12.06,0,0,1434,330,0,499,0,605
+2015,11,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",180,56,12.04,0.42,35.54,1,7,5,2,2365,695,26,1360,31,253
+2015,11,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",666,146,37.78,1.11,68.25,0.37,38.49,6,0,8036,1603,177,3507,34,2715
+2015,11,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",299,72,15.32,6.23,39.29,0,11.16,5,0,4063,783,657,1838,0,785
+2015,11,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",41,10,2.15,0,6.16,0,1.69,1,0,389,94,0,254,0,41
+2015,11,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",28,2,1,0,1,0,0,0,0,283,84,0,199,0,0
+2015,11,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",24,5,2.24,0,2.38,0,0.38,0,0,224,127,0,71,0,26
+2015,11,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",330,78,13.12,3.24,49.76,0.33,11.54,6,1,3978,621,277,2484,7,589
+2015,11,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",172,41,11.18,0,22.62,0,7.2,0,0,1669,472,0,1029,0,168
+2015,11,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",130,26,4.54,0.05,13.22,0,8.18,1,0,1543,332,3,517,0,691
+2015,11,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",169,33,8.28,0.04,13.93,1.47,9.28,1,0,1690,438,5,654,22,571
+2015,11,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",95,17,1.91,0,6.38,0,8.71,1,0,841,124,0,403,0,314
+2015,11,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",13,5,0.34,1,3.16,0,0.5,0,0,115,11,18,69,0,17
+2015,11,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",30,7,3.84,0,1.46,0,1.7,0,0,435,168,0,48,0,219
+2015,12,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",881,230,49.26,6.54,104.56,1.34,68.3,29,0,11946,1948,1041,5139,26,3792
+2015,12,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",273,74,29.06,0.31,15.6,0,29.03,3,0,4397,1440,36,731,0,2190
+2015,12,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",731,173,58.34,0.55,46.21,0,67.9,15,0,10573,3795,43,2424,0,4311
+2015,12,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",877,293,86.81,0.33,123.04,3.19,79.62,12,0,15646,4170,25,5678,93,5680
+2015,12,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",93,33,7.12,0.47,9.52,0,15.9,2,0,1936,391,67,392,0,1086
+2015,12,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",519,143,40.39,2.03,61.94,4.38,34.26,1,0,7547,1976,255,2877,90,2349
+2015,12,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1142,371,75.81,2.92,159,6.09,127.18,8,1,22646,4828,214,7373,194,10037
+2015,12,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",368,96,25.35,1.56,41.56,0,27.53,3,0,5018,1343,132,1801,0,1742
+2015,12,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",155,33,11.58,2.81,15.45,0,3.17,5,1,2911,1024,203,1289,0,395
+2015,12,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",543,180,41.83,1.44,80,2.59,54.14,8,0,9240,2211,43,3284,75,3627
+2015,12,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",341,86,24.87,1.93,34.97,0.16,24.07,4,0,3712,914,139,1529,3,1127
+2015,12,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",608,251,59.1,0.05,125.11,0.75,65.99,10,3,14458,3347,11,6356,31,4713
+2015,12,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",186,48,14.11,0.96,18.32,0.3,14.3,4,0,3077,621,256,870,17,1313
+2015,12,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",242,52,16.84,0.63,13.91,0,20.62,2,1,3193,947,62,498,0,1686
+2015,12,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",709,214,42.79,1.5,93.08,1.93,74.7,10,4,14919,3077,50,5475,65,6252
+2015,12,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,63,23.69,0.56,24.18,1.58,12.99,1,1,2958,1118,45,1102,37,656
+2015,12,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",304,66,21.42,0.82,26.24,0.28,17.23,9,0,3055,978,60,1092,10,915
+2015,12,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",470,142,34.37,1.73,65.8,3.62,36.48,13,2,6067,1608,68,2647,91,1653
+2015,12,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",414,123,45.54,0.89,44.02,0.25,32.3,8,0,7037,2574,72,1720,13,2658
+2015,12,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",298,55,9.29,0,20.78,0,24.93,1,2,3262,381,0,1168,0,1713
+2015,12,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",42,19,5.55,0,8.31,0,5.14,0,0,1316,258,0,494,0,564
+2015,12,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",62,12,1.64,0,8.36,0,2,1,0,652,118,0,366,0,168
+2015,12,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,45,10.75,1.44,21.14,0,11.66,4,0,1845,446,93,739,0,567
+2015,12,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,79,14.16,1.77,48.2,0.16,14.71,13,1,4308,1125,94,2363,8,718
+2015,12,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",87,22,7.75,0,3.07,0.15,11.03,1,0,1287,529,0,131,6,621
+2015,12,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",186,55,18.9,0,16.98,0,19.12,3,0,3273,915,0,595,0,1763
+2015,12,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",186,58,15.98,0,16.76,0.73,24.52,5,0,3859,1096,0,791,19,1953
+2015,12,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",14,9,3.83,0,4.44,0,0.73,0,0,328,118,0,188,0,22
+2015,12,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",124,52,18.03,2.04,16.02,0,15.91,5,0,4357,1095,271,1736,0,1255
+2015,12,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",31,11,2.42,0,3.13,0,5.45,0,0,886,239,0,364,0,283
+2015,12,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",31,6,4.19,0,0.87,0,0.94,1,0,438,265,0,76,0,97
+2015,12,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",72,30,15.77,0,7.85,0,6.39,1,0,2172,1328,0,387,0,457
+2015,12,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,13,7.2,0,4.83,0,0.97,0,0,781,441,0,307,0,33
+2016,1,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",155,39,11.74,0,17.09,0,10.17,8,0,2415,887,0,805,0,723
+2016,1,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",899,242,68.22,2.4,109.07,0.09,62.22,24,0,12991,4264,208,4381,18,4120
+2016,1,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",563,164,40.23,0.93,89.11,1.1,32.62,11,0,8963,2576,123,4110,28,2126
+2016,1,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",930,240,54.26,6.12,91.6,0.25,87.77,25,0,16578,3744,549,5458,8,6819
+2016,1,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",248,71,18.6,0,27.62,0,24.78,3,0,4141,1492,0,1182,0,1467
+2016,1,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",736,197,55.19,0.96,72.57,1.9,66.37,19,1,11762,3385,57,3480,94,4746
+2016,1,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,52,15.35,0,15.94,0,20.71,3,0,3113,1067,0,806,0,1240
+2016,1,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",310,68,18.79,0.24,26.59,0.71,21.68,4,0,3015,861,4,910,12,1228
+2016,1,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",749,190,65.32,1.9,62.81,0.1,59.87,12,2,11488,3614,440,3296,11,4127
+2016,1,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",470,150,42.23,0.22,55.52,1.3,50.73,5,2,9162,2832,21,2929,46,3334
+2016,1,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",328,64,21.74,0,16.76,0,25.5,29,0,4467,1528,0,930,0,2009
+2016,1,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",93,32,9.59,0.1,12.06,0,10.25,1,0,1658,567,10,443,0,638
+2016,1,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1178,424,86.18,11.9,184.61,3.31,138,43,3,23713,4444,1384,8250,114,9521
+2016,1,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",386,133,33.33,0.17,63.04,1.18,35.29,9,1,6319,1943,8,2525,44,1799
+2016,1,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",589,164,54.84,2.76,71.14,0.77,34.49,6,0,8711,2773,433,3238,37,2230
+2016,1,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",341,92,25.97,0.14,36.37,0.95,28.58,1,0,4086,1183,10,1206,30,1657
+2016,1,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",620,217,51.88,0.79,100.12,1.33,62.88,10,0,12047,3173,34,4942,26,3872
+2016,1,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,34,11.89,0.21,9.43,0,12.47,2,0,1673,517,7,343,0,806
+2016,1,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,87,22.77,1,41.28,2,19.95,32,0,4111,1350,26,1535,64,1136
+2016,1,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",421,142,41.42,0.33,50.58,0.84,48.83,10,0,7549,1796,47,2460,21,3225
+2016,1,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",93,25,5.06,0,12.51,0.24,7.18,8,0,1521,436,0,638,12,435
+2016,1,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",186,53,13.24,0,25.2,0,14.56,2,0,3656,912,0,1591,0,1153
+2016,1,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",124,34,16.28,0,10.08,0.11,7.53,10,0,1994,944,0,402,8,640
+2016,1,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",310,83,23.12,0,31.95,0.03,27.9,17,0,4974,1305,0,1692,3,1974
+2016,1,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",186,62,17.84,0.07,20.58,0,23.51,3,0,3975,779,2,1176,0,2018
+2016,1,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",186,53,15.71,0.86,12.89,1,22.55,2,1,3947,1100,18,916,16,1897
+2016,1,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",18,7,3.49,0,1.35,0,2.16,1,0,403,279,0,52,0,72
+2016,1,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",62,23,5.88,0,11.64,0,5.48,2,0,1797,510,0,950,0,337
+2016,1,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",62,12,0.87,0,2.66,0,8.47,3,0,833,51,0,93,0,689
+2016,1,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",31,6,2.17,0,2.16,0,1.67,1,0,465,128,0,197,0,140
+2016,1,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",60,30,14.47,0,6.13,0,9.4,2,0,1914,917,0,304,0,693
+2016,1,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,12,3.01,0,3.24,0,5.75,0,0,875,313,0,197,0,365
+2016,1,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",31,8,1.89,0,3.41,0,2.7,0,0,346,65,0,117,0,164
+2016,2,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",509,166,31,2.52,108.27,0.5,23.7,15,0,9126,1885,267,5441,11,1522
+2016,2,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",870,300,57.02,0.98,186.72,0.5,54.79,29,0,20246,3608,71,11008,10,5549
+2016,2,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",232,96,19.56,0,54.8,1,20.64,4,1,6153,1361,0,3096,19,1677
+2016,2,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",660,222,30.82,1.91,143.52,0,45.75,21,0,15723,1714,261,9704,0,4044
+2016,2,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",171,52,10.65,0,26.51,0,14.84,1,1,3148,558,0,1497,0,1093
+2016,2,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",290,82,15.74,0,54.43,0,11.83,17,0,5113,1061,0,3239,0,813
+2016,2,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",715,192,36.58,0.99,101.43,1.4,51.61,22,1,13708,2018,83,7138,52,4417
+2016,2,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",439,143,28.26,1,77.66,0,36.08,14,0,10634,2223,227,4834,0,3350
+2016,2,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",307,84,22.14,0.52,44.51,0.06,16.77,18,0,5977,1273,78,3279,7,1340
+2016,2,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",835,273,36.56,2.72,187.43,1.1,45.18,48,1,17770,2334,276,12092,50,3018
+2016,2,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1103,351,53.23,2.21,218.97,0.76,75.84,41,0,23406,3507,282,13143,26,6448
+2016,2,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",319,103,22.3,0,62.66,0,18.04,13,0,7373,1851,0,3933,0,1589
+2016,2,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",390,145,29.87,0.97,87.1,0,27.06,11,0,10883,2335,87,6005,0,2456
+2016,2,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",354,126,21.59,0.54,81.96,0,21.91,10,2,8280,1384,37,4890,0,1969
+2016,2,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",101,28,6.53,0,11.71,0,9.76,1,0,2300,510,0,908,0,882
+2016,2,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",551,190,38.98,0.02,110.14,0.56,40.3,19,1,13640,3544,2,6039,15,4040
+2016,2,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",316,98,10.41,2.45,79,0,6.15,30,2,5834,439,155,4884,0,356
+2016,2,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",174,67,14.48,1.01,40.09,0,11.41,8,0,4509,761,64,2673,0,1011
+2016,2,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",174,58,10.47,0.93,35.6,0,11,11,0,5053,572,77,2964,0,1440
+2016,2,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",58,27,6.17,0,16.93,0,3.89,3,0,2072,658,0,1107,0,307
+2016,2,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",580,215,28.13,1.53,140.11,0,45.23,21,0,13590,2081,49,8023,0,3437
+2016,2,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",219,59,8.38,0.73,40.24,0.61,9.04,16,0,4308,1106,39,2336,12,815
+2016,2,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",290,93,15.27,0.83,56.86,0,20.04,14,0,6856,1087,77,4097,0,1595
+2016,2,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",120,57,7.76,0,35,0,14.24,5,2,4778,647,0,2758,0,1373
+2016,2,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",37,10,1.16,0,4.07,0,4.77,3,0,565,45,0,309,0,211
+2016,2,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",58,20,2.02,0,11.24,0,6.74,0,0,2116,167,0,799,0,1150
+2016,2,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",87,26,4.31,0,16.08,0,5.61,0,1,1854,260,0,943,0,651
+2016,2,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",116,36,4.74,0,21.62,0.06,9.58,3,0,1947,162,0,1008,1,776
+2016,2,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",171,52,11.89,0.98,29.78,0,9.35,3,0,3773,645,114,2269,0,745
+2016,2,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",21,9,0.23,0,6.35,0,2.42,1,0,528,16,0,383,0,129
+2016,2,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",29,6,2.9,0,1.06,0,2.05,0,0,500,201,0,35,0,264
+2016,2,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",29,8,1.23,0,5.03,1,0.74,2,0,407,23,0,325,36,23
+2016,2,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",29,4,3,0,1,0,0,0,0,136,121,0,15,0,0
+2016,3,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",548,172,1.74,0,167.26,1,2,6,2,10009,136,0,9767,17,89
+2016,3,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",620,206,1.7,0,202.82,0,1.48,11,2,12927,37,0,12849,0,41
+2016,3,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",734,266,3.53,0,256.9,0,5.57,17,6,16434,328,0,15826,0,280
+2016,3,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",899,294,3.51,0,283.3,0,7.19,20,1,17650,204,0,16895,0,551
+2016,3,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,50,0,0,49,0,1,2,0,2448,0,0,2431,0,17
+2016,3,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,123,2,0,120,0,1,5,1,6991,193,0,6778,0,20
+2016,3,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",420,157,2.79,1,152.99,0,0.22,7,1,9238,99,15,9108,0,16
+2016,3,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",114,40,1,0,38.04,0,0.96,0,0,3150,57,0,3069,0,24
+2016,3,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1178,415,5.26,0,400.44,0.11,9.19,14,0,24990,299,0,24154,5,532
+2016,3,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",341,91,0.13,0.97,87,0,2.91,1,0,4493,6,66,4194,0,227
+2016,3,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",930,291,2.45,0,285.08,0,3.47,17,2,17567,138,0,17219,0,210
+2016,3,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",248,74,2.98,0,69.47,0,1.55,5,0,5076,117,0,4892,0,67
+2016,3,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",386,151,2.05,0.39,144.84,0,3.73,3,1,9733,97,16,9466,0,154
+2016,3,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",612,197,6.37,0,186.63,0,4,10,1,9065,290,0,8527,0,248
+2016,3,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",779,233,4.72,0.1,224.42,0,3.76,6,0,14496,174,18,14031,0,273
+2016,3,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",186,60,0,0,59.07,0,0.93,3,0,2914,0,0,2888,0,26
+2016,3,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",279,75,2.9,0,71.1,0,1,3,0,3685,83,0,3578,0,24
+2016,3,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,74,1.83,0,71.28,0,0.89,2,0,4182,171,0,3891,0,120
+2016,3,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",310,115,1.73,0,110.51,0,2.77,12,0,6757,344,0,6174,0,239
+2016,3,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",469,175,1.94,0,169.75,0,3.3,10,0,11100,182,0,10703,0,215
+2016,3,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",324,97,1.86,0,94.4,0.74,0,2,0,5568,58,0,5496,14,0
+2016,3,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",93,21,0,0,20.04,0,0.96,0,0,1075,0,0,973,0,102
+2016,3,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",138,50,0,0,50,0,0,2,0,3256,0,0,3256,0,0
+2016,3,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",310,135,0.54,0.97,130.4,0,3.09,2,2,9968,36,73,9671,0,188
+2016,3,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",44,13,0,0,13,0,0,0,0,853,0,0,853,0,0
+2016,3,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",69,20,0.76,0,19.01,0,0.23,1,0,1193,100,0,1062,0,31
+2016,3,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",62,30,0,0,29.01,0,0.99,1,0,1992,0,0,1856,0,136
+2016,3,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",186,71,2.35,0,68.65,0,0,5,0,4065,45,0,4020,0,0
+2016,3,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",31,13,0,0,13,0,0,0,0,551,0,0,551,0,0
+2016,3,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",186,50,2,0,47.07,0,0.93,5,1,3098,53,0,2966,0,79
+2016,3,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",31,10,0,0,10,0,0,0,0,863,0,0,863,0,0
+2016,3,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",15,4,0,0,4,0,0,1,0,211,0,0,211,0,0
+2016,3,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,10,1,0,9,0,0,0,0,345,22,0,323,0,0
+2016,3,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",22,7,0,0,7,0,0,1,0,291,0,0,291,0,0
+2016,4,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1091,233,51.31,1.1,92.97,0.63,87,25,1,14259,2502,50,4855,14,6838
+2016,4,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",179,44,12.06,1.63,21.99,0,8.32,0,0,2917,1105,74,1097,0,641
+2016,4,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",719,179,47,2.15,81.51,1.31,47.03,7,0,10647,3161,67,4104,43,3272
+2016,4,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",496,99,30.58,1.39,39.96,0.91,26.16,6,1,5790,1278,47,2432,30,2003
+2016,4,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",618,163,39.34,0,85.25,0,38.41,11,1,7937,2018,0,3902,0,2017
+2016,4,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",257,56,15.69,3.3,24.63,0,12.38,5,0,2887,693,152,1431,0,611
+2016,4,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",386,98,24.31,2.23,38.03,1.53,31.9,3,1,5246,954,137,1869,58,2228
+2016,4,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",337,45,10.81,2.53,19.47,2.76,9.43,3,0,3255,1132,104,1173,59,787
+2016,4,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",349,94,17.36,0.07,45.79,0,30.77,4,0,5426,866,6,2297,0,2257
+2016,4,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",936,252,43.73,5.23,144.67,0.32,58.05,10,0,14586,2104,333,7637,18,4494
+2016,4,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",241,54,18.15,0,19.57,0.09,16.18,10,0,3008,1110,0,916,14,968
+2016,4,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",914,240,54.54,5.82,110.17,0.79,68.67,19,6,12671,2811,337,5589,15,3919
+2016,4,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",94,30,4.37,0,20.02,0,5.61,0,0,1396,201,0,824,0,371
+2016,4,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",754,215,40.99,6.01,106.73,1.56,59.71,18,5,12684,2082,332,5371,40,4859
+2016,4,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",180,48,13.33,0.11,18.23,0,16.33,4,0,2681,496,11,883,0,1291
+2016,4,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",374,94,14.09,3.74,54.01,0.39,21.77,11,0,4200,774,167,2009,15,1235
+2016,4,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",329,71,13.06,3.38,47.4,0,7.16,6,2,3618,538,272,2438,0,370
+2016,4,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",197,44,9.92,0,21.26,0,12.82,2,0,2693,578,0,978,0,1137
+2016,4,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",486,129,26.67,2.47,56.71,0.95,42.2,13,1,7246,1482,170,2797,45,2752
+2016,4,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",26,7,0.06,0,3.97,0,2.97,1,0,518,3,0,315,0,200
+2016,4,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",30,6,3,0,2,0,1,0,0,220,115,0,79,0,26
+2016,4,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",746,186,57.01,2.86,86.89,1.28,37.95,10,2,10861,3390,206,4232,78,2955
+2016,4,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",188,49,10.31,1.49,22.62,0,14.58,1,0,3080,596,53,1288,0,1143
+2016,4,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",316,63,21.9,0,18.53,0.17,22.4,2,0,3741,1177,0,1082,13,1469
+2016,4,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",131,32,6.54,0.15,17.01,0,8.3,2,0,1530,236,22,852,0,420
+2016,4,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",90,21,1.74,0,9.84,0,9.43,0,0,965,48,0,430,0,487
+2016,4,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",213,54,12.7,0,25.5,0,15.8,7,0,3646,1302,0,1310,0,1034
+2016,4,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",271,72,21.78,0,24.58,0,25.65,9,0,4629,1096,0,1361,0,2172
+2016,4,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",94,18,8.02,0,7.04,0,2.94,2,0,1382,654,0,398,0,330
+2016,4,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",5,2,1,1,0,0,0,0,0,296,17,279,0,0,0
+2016,4,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",33,4,2.81,0,1.19,0,0,0,1,300,212,0,88,0,0
+2016,4,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",106,26,5.7,0.84,11.61,0,7.85,1,0,1232,157,53,650,0,372
+2016,4,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",27,5,2,0,1,0,2,0,0,127,46,0,21,0,60
+2016,4,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",47,2,2,0,0,0,0,0,0,78,78,0,0,0,0
+2016,4,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",21,5,0.39,0,2,0,2.61,1,1,259,13,0,139,0,107
+2016,5,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,85,15.03,7.96,49.42,0.32,12.27,6,0,3997,732,571,1811,18,865
+2016,5,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",528,134,24.59,2.59,55.82,1.11,49.88,13,0,7856,1131,241,3090,27,3367
+2016,5,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1139,227,60.13,7.39,106.75,0,52.73,14,1,13753,3075,462,6466,0,3750
+2016,5,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",824,224,43.54,2.13,117.55,1.84,58.93,10,2,14043,2535,99,6724,45,4640
+2016,5,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",124,24,8.86,0,7.51,0,7.63,0,0,1367,675,0,366,0,326
+2016,5,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",248,72,15.42,1.98,41.24,1.35,12.02,2,0,4237,926,190,2439,46,636
+2016,5,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",748,160,36.94,3.8,76.25,1,42.01,6,0,9330,1730,146,4350,15,3089
+2016,5,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",403,99,21.66,3.38,47.84,1.89,24.23,5,0,5565,1486,251,2476,58,1294
+2016,5,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",496,91,20.32,0,38.54,4.02,28.12,6,0,5834,1237,0,2320,110,2167
+2016,5,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",402,85,26.38,0.98,42.61,0.27,14.76,4,0,3533,823,51,1772,11,876
+2016,5,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",403,95,20.06,1.89,48.04,0,25,4,0,5963,1096,269,2965,0,1633
+2016,5,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",478,85,15.71,1.56,39.64,0,28.1,6,2,4743,1119,98,1422,0,2104
+2016,5,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",248,46,13.51,2.47,16.78,0,13.24,0,0,2453,825,239,666,0,723
+2016,5,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",961,195,57.71,4.83,78.35,1.07,53.03,14,0,9795,2083,370,4284,31,3027
+2016,5,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,29,9.09,2.52,12.47,0,4.92,3,0,1274,435,149,460,0,230
+2016,5,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",806,211,50.04,5.37,102.22,0.83,52.54,12,0,11062,2116,424,5163,24,3335
+2016,5,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",8,1,0.52,0,0.48,0,0,0,0,23,12,0,11,0,0
+2016,5,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",26,2,0.58,0,0.67,0,0.75,2,0,69,24,0,33,0,12
+2016,5,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",124,26,5.4,0.47,10.12,0,10.01,3,0,1373,278,23,529,0,543
+2016,5,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",961,225,40.02,9.74,118.33,0,56.91,15,4,12779,2077,981,6238,0,3483
+2016,5,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",434,92,14.04,1.84,53.45,0,22.68,7,2,5676,656,171,3131,0,1718
+2016,5,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,33,9.93,1.63,11.02,0,10.42,4,0,2070,619,155,448,0,848
+2016,5,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",620,133,35.95,2.38,56.67,0,38,11,0,8898,2065,124,2795,0,3914
+2016,5,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",341,73,15.49,1.42,28.12,0.49,27.47,2,0,5028,1082,191,1485,21,2249
+2016,5,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",217,45,14.36,2.97,15.12,0.64,11.91,2,0,2230,637,209,712,14,658
+2016,5,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",85,17,7.7,0.04,4.21,0,5.05,1,0,709,433,3,119,0,154
+2016,5,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",93,18,5.64,0,5.18,0,7.18,2,1,637,188,0,151,0,298
+2016,5,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",175,44,10.31,0.97,13.08,0,19.63,6,2,2708,653,31,631,0,1393
+2016,5,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",248,48,17.24,0,15.22,0.5,15.04,2,0,2542,909,0,749,11,873
+2016,5,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",22,3,0,0,0,0,3,0,0,69,0,0,0,0,69
+2016,5,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",59,15,1.61,0.51,7.38,0,5.51,1,0,642,55,34,294,0,259
+2016,5,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",62,9,3.9,0.86,1.58,0,2.66,0,0,381,142,18,47,0,174
+2016,5,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",27,3,0.77,0,2.17,0.06,0,0,0,236,38,0,195,3,0
+2016,5,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,1,1,0,0,0,0,1,0,34,34,0,0,0,0
+2016,6,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",930,212,53.38,3.81,88.35,0.03,66.44,30,1,12518,2647,266,4832,2,4771
+2016,6,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",797,227,42.2,3.54,117.55,1.46,62.25,14,6,11673,1822,207,5152,57,4435
+2016,6,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",180,36,12.65,0,12.9,0,10.45,2,0,2325,599,0,952,0,774
+2016,6,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",390,80,23.02,3.27,35.41,0,18.29,13,0,5000,1369,248,1828,0,1555
+2016,6,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",724,177,40.06,5.11,78.71,1.14,51.98,20,1,9805,2041,346,3932,155,3331
+2016,6,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",420,98,22.32,1.28,47.19,0,27.2,11,3,5065,998,104,2417,0,1546
+2016,6,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",510,126,26.24,2,49.76,0.65,47.35,15,3,8870,1624,118,2845,11,4272
+2016,6,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",480,121,40.61,2.23,44.39,1.51,32.26,10,0,7852,2161,289,2743,50,2609
+2016,6,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",120,19,4.74,0,6.33,0,7.94,4,0,1442,396,0,583,0,463
+2016,6,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1100,247,66.8,1.58,110.9,0,67.72,22,3,13581,3561,29,5359,0,4632
+2016,6,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",391,65,19.21,0.41,28.95,0.16,16.26,9,0,4320,1395,37,1549,17,1322
+2016,6,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",780,249,65.52,2.7,119.6,1.59,59.59,17,0,13719,3305,220,5579,90,4525
+2016,6,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",463,94,36.08,1.51,30.02,0.89,25.5,5,0,4804,1843,87,1505,17,1352
+2016,6,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",600,155,37.26,5.3,74.85,0.24,37.35,8,2,9430,2564,306,3686,6,2868
+2016,6,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",330,76,15.97,1.54,38.3,0.57,19.61,5,0,4367,921,117,1924,20,1385
+2016,6,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",330,83,14.89,7.3,54.12,0,6.69,16,0,4363,661,422,2863,0,417
+2016,6,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",240,75,16.95,2.11,41.46,0.83,13.65,10,0,4879,1074,256,2298,33,1218
+2016,6,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",390,113,28.5,1.4,46.08,0.32,36.69,6,0,6372,1431,126,2205,19,2591
+2016,6,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",240,55,17.31,0.22,23.9,0.35,13.22,5,0,3058,674,21,1492,11,860
+2016,6,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",120,31,7.41,0,13.36,0,10.22,4,0,1693,324,0,600,0,769
+2016,6,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",930,220,39.57,4.45,112.98,0.06,62.94,23,1,11773,2126,235,5263,5,4144
+2016,6,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",30,9,2.68,0.22,3.33,1.83,0.94,0,0,614,129,20,217,156,92
+2016,6,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",56,9,2.58,0,3.76,1,1.66,1,0,415,219,0,92,23,81
+2016,6,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",210,46,7.37,0,19.7,0,18.93,5,0,2857,429,0,1092,0,1336
+2016,6,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",90,21,4.44,0,10.17,0,6.4,3,0,1154,184,0,510,0,460
+2016,6,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",171,55,18.83,0.33,16.78,0,19.05,4,0,3303,1034,21,938,0,1310
+2016,6,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",240,58,22.5,1.5,21.5,0,12.51,4,1,3465,1015,181,992,0,1277
+2016,6,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",21,8,4.5,0.76,1.92,0,0.82,0,0,380,300,13,42,0,25
+2016,6,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",9,2,1.08,0,0.04,0,0.88,0,0,52,28,0,1,0,23
+2016,6,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",26,3,0.47,0,0.4,0.09,2.04,0,0,226,14,0,41,10,161
+2016,6,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",120,41,11.47,1.86,15.81,0,11.85,3,0,2432,888,151,743,0,650
+2016,6,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",60,12,4.92,1,1.92,0.65,3.51,0,0,450,143,15,43,19,230
+2016,6,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",81,16,3.11,0,5.68,0,7.21,0,0,866,127,0,185,0,554
+2016,6,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",26,5,0.04,0,0.16,0,4.8,1,0,469,5,0,6,0,458
+2016,7,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1139,248,21.87,0,194.7,0,31.43,18,3,19153,1345,0,14648,0,3160
+2016,7,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",248,91,4.45,0.89,81.86,0,3.8,6,1,7177,150,139,6533,0,355
+2016,7,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",403,72,4.1,0.65,58.84,0,8.41,8,0,4618,290,32,3279,0,1017
+2016,7,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",806,213,16.68,1,174.19,0,21.13,11,1,11128,741,20,8629,0,1738
+2016,7,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",478,103,8.4,0.11,71.28,0,23.2,4,0,6924,428,17,4811,0,1668
+2016,7,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",496,141,16.23,1.02,112.84,0,10.9,10,0,9971,1072,199,7657,0,1043
+2016,7,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",620,171,6.91,0,146.68,0.86,16.55,14,5,14761,530,0,12379,37,1815
+2016,7,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",341,80,4.69,0.26,66.68,0,8.37,7,2,5260,363,24,4342,0,531
+2016,7,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",403,131,9.84,2.35,108.86,0,9.94,7,0,9715,602,184,8155,0,774
+2016,7,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",824,212,20.39,0,170.08,0,21.53,20,5,14638,1238,0,11376,0,2024
+2016,7,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,100,6.87,3.28,87.73,0,2.12,24,3,5979,244,246,5297,0,192
+2016,7,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",248,64,2.44,0,49.73,0,11.83,2,0,3910,94,0,2809,0,1007
+2016,7,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",961,208,14.83,0.2,169.01,0.06,23.89,21,2,13628,981,12,11330,4,1301
+2016,7,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",217,44,6.36,0,30.85,0,6.79,2,0,2471,423,0,1700,0,348
+2016,7,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",749,202,10.08,0.82,157.82,0,33.28,14,0,13745,573,36,10671,0,2465
+2016,7,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",403,127,3.75,1.25,112.83,0.33,8.83,12,1,8469,360,93,7262,16,738
+2016,7,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",124,30,4.09,0,22.74,0,3.18,2,0,1878,324,0,1221,0,333
+2016,7,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,44,2.67,0,35.15,0,6.18,3,0,3244,222,0,2758,0,264
+2016,7,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",434,89,6.59,1.68,73.5,0,7.23,5,2,5135,383,98,4139,0,515
+2016,7,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",527,131,10.24,0.24,101.26,0.32,18.94,11,2,8570,777,4,6736,12,1041
+2016,7,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,19,1.85,0,16.05,0,1.1,4,0,1157,44,0,1081,0,32
+2016,7,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",57,7,1.09,0,5.01,0,0.9,0,0,450,24,0,334,0,92
+2016,7,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",961,249,9.42,2,225.24,0.47,11.87,34,4,18700,642,193,16544,9,1312
+2016,7,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",9,1,0,0,1,0,0,0,0,88,0,0,88,0,0
+2016,7,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",178,58,5.83,0.27,44.99,0,6.91,4,1,4436,330,41,3225,0,840
+2016,7,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",93,28,4.04,0,20.22,0,3.74,2,1,1595,287,0,1010,0,298
+2016,7,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",248,44,4.76,0,34.1,0,5.13,3,0,3001,348,0,2302,0,351
+2016,7,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",23,9,0.17,1,6.04,0,1.79,0,0,506,17,55,320,0,114
+2016,7,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",27,2,0,0,2,0,0,0,0,98,0,0,98,0,0
+2016,7,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",124,25,2.55,0,21.79,0,0.66,3,0,1698,152,0,1523,0,23
+2016,7,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",84,16,2.05,0,9.03,0,4.92,0,0,1589,106,0,742,0,741
+2016,7,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",26,4,0,0,4,0,0,0,0,195,0,0,195,0,0
+2016,7,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,4,1,0,3,0,0,0,1,359,98,0,261,0,0
+2016,7,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",62,14,1.82,0,7.25,0,4.93,0,0,735,75,0,414,0,246
+2016,8,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",434,116,15.44,1.06,82.16,0,17.35,4,1,7747,851,188,5258,0,1450
+2016,8,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,21,3.29,0.08,14.96,0,2.68,4,0,1233,106,6,904,0,217
+2016,8,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1137,278,29.83,1.6,211.11,0,35.46,18,1,21762,2478,78,15594,0,3612
+2016,8,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",403,92,11.6,2.23,62.89,1,14.28,7,0,6966,695,124,4768,22,1357
+2016,8,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",806,217,16.71,5.1,170.11,0.03,25.05,11,0,11795,786,243,9278,1,1487
+2016,8,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",479,126,12.03,2,89.08,1.02,21.87,4,0,8432,737,928,5488,31,1248
+2016,8,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",496,146,11.17,3.07,106.37,0.04,25.36,12,0,12333,418,167,9764,1,1983
+2016,8,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",620,159,11.05,0.96,124.47,0,22.52,7,0,12199,538,27,8931,0,2703
+2016,8,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",341,100,10.68,2.89,66.55,0,19.88,5,1,7368,606,213,5011,0,1538
+2016,8,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",403,123,11.48,0.8,98.86,0.53,11.33,6,0,9997,604,45,8434,33,881
+2016,8,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",824,211,17.82,6.04,154.12,0.19,32.82,24,6,19554,2338,355,12667,4,4190
+2016,8,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,101,13.13,4.41,76.02,0,7.44,8,0,8720,1002,286,6791,0,641
+2016,8,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",248,55,5.57,1,36.04,0.74,11.65,5,1,4103,546,23,2152,73,1309
+2016,8,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",961,208,20.93,3.72,144.01,0,39.33,14,1,14475,1019,211,10031,0,3214
+2016,8,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",217,49,4.48,0,36.11,0,8.42,4,0,3358,274,0,2445,0,639
+2016,8,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",748,223,18.87,4.55,153.68,1.81,44.08,5,0,19480,2347,282,12862,177,3812
+2016,8,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",527,156,21.44,1.19,109.79,0.57,23.02,5,1,11891,2299,216,6903,65,2408
+2016,8,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",248,91,4.15,1.55,75.18,0.36,9.76,7,1,6591,223,84,5262,9,1013
+2016,8,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",57,16,0.92,0,11.66,0,3.42,1,0,1273,196,0,790,0,287
+2016,8,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",961,276,16.02,8.04,226.59,2.05,23.3,26,1,19369,631,622,15168,137,2811
+2016,8,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",403,115,14.38,0.86,79.27,0,20.49,6,0,8480,1483,75,5546,0,1376
+2016,8,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",124,24,0.73,0,19.45,0.67,3.15,0,0,1207,26,0,1013,28,140
+2016,8,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,49,10.26,0,29.54,0,9.2,2,0,3601,564,0,2351,0,686
+2016,8,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",84,18,0.14,0.86,14.17,0,2.82,2,0,1357,6,164,1048,0,139
+2016,8,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",27,5,0,0,4,0,1,0,0,335,0,0,320,0,15
+2016,8,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",248,54,6.83,0.04,34.43,0,12.7,5,0,3712,552,2,2447,0,711
+2016,8,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,4,1,0,3,0,0,0,0,150,38,0,112,0,0
+2016,8,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",124,29,2.69,0.77,20.49,0,5.05,1,1,1892,83,93,1356,0,360
+2016,8,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",178,61,5.22,0.55,46.62,0,8.61,3,0,4132,509,16,2938,0,669
+2016,8,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",93,25,0.91,0,18.54,0,5.55,1,0,1437,15,0,993,0,429
+2016,8,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",9,1,0,0,1,0,0,0,0,124,0,0,124,0,0
+2016,8,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",26,6,1.17,0,3.94,0,0.9,0,0,578,48,0,359,0,171
+2016,8,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",22,12,1.12,0,6.81,0,4.07,0,0,405,33,0,242,0,130
+2016,8,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",62,9,2,0,6.06,0,0.94,0,0,391,139,0,207,0,45
+2016,9,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",261,44,4.08,0,37.89,0,2.03,2,0,3201,365,0,2666,0,170
+2016,9,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",594,101,3.04,0,95.17,0,2.79,1,0,5646,222,0,5304,0,120
+2016,9,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",320,83,0,1.7,78.55,0,2.75,2,1,5546,0,90,5095,0,361
+2016,9,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",21,2,0,0,2,0,0,0,0,75,0,0,75,0,0
+2016,9,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",468,73,3.72,0.46,66.33,0,2.48,3,0,4860,820,13,3807,0,220
+2016,9,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",228,32,0.07,0,30.01,0,1.93,1,0,3717,9,0,3537,0,171
+2016,9,NK,Spirit Air Lines,CRW,"Charleston/Dunbar, WV: Yeager",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,9,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",379,38,1.3,0,35.3,0,1.4,1,0,2337,23,0,2288,0,26
+2016,9,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",775,120,2.51,0,115.81,0,1.67,2,1,9470,126,0,9306,0,38
+2016,9,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",722,101,4.89,0.9,88.3,0,6.91,2,1,6906,289,36,5586,0,995
+2016,9,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1041,165,3.4,0,157.99,0,3.61,9,2,11461,431,0,10570,0,460
+2016,9,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",23,1,0,0,1,0,0,0,0,16,0,0,16,0,0
+2016,9,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",521,56,0.94,0.45,51.77,0.31,2.54,1,0,2796,58,21,2552,8,157
+2016,9,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",946,99,1,0,97,0,1,1,2,6158,25,0,5825,0,308
+2016,9,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",773,104,3.29,0,98.99,0,1.72,3,1,5603,298,0,5158,0,147
+2016,9,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",70,11,0,0,11,0,0,0,0,680,0,0,680,0,0
+2016,9,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",330,72,0,0.88,70.17,0,0.95,4,1,3522,0,35,3365,0,122
+2016,9,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",90,9,0,0,8,0,1,0,0,368,0,0,303,0,65
+2016,9,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",487,68,1.04,0,65.01,0,1.95,1,0,3701,40,0,3460,0,201
+2016,9,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",383,50,2,0,48,0,0,2,0,3133,48,0,3085,0,0
+2016,9,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",240,19,0,0,19,0,0,2,0,1017,0,0,1017,0,0
+2016,9,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",347,42,2.09,0,39.91,0,0,2,3,3669,132,0,3537,0,0
+2016,9,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",233,22,0.85,0,20.34,0,0.81,1,0,1381,94,0,1243,0,44
+2016,9,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",836,126,2,1,122.36,0,0.63,4,0,8320,44,44,8201,0,31
+2016,9,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",23,2,0,0,2,0,0,0,0,63,0,0,63,0,0
+2016,9,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",120,14,0,0,14,0,0,0,0,718,0,0,718,0,0
+2016,9,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",234,54,0.16,0,52.84,0,1,2,0,3048,7,0,2960,0,81
+2016,9,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",67,4,0,0,4,0,0,0,0,130,0,0,130,0,0
+2016,9,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",56,5,0.53,0,3.81,0,0.66,1,0,559,16,0,518,0,25
+2016,9,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",180,19,0,0,18,0,1,1,0,1916,0,0,1890,0,26
+2016,9,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",120,19,0.07,0,17.22,0,1.71,0,0,1306,7,0,949,0,350
+2016,9,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",60,8,0,0,8,0,0,0,0,353,0,0,353,0,0
+2016,9,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",30,4,0,0,4,0,0,0,1,207,0,0,207,0,0
+2016,9,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",171,30,0,0,29,0,1,1,0,1618,0,0,1557,0,61
+2016,10,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1062,148,10.32,0,110.24,0,27.44,60,4,12653,1410,0,8107,0,3136
+2016,10,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",265,42,3.84,0,30.73,0,7.43,9,1,2551,289,0,1576,0,686
+2016,10,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",741,88,12.85,0,61.75,0,13.4,17,0,5222,627,0,3728,0,867
+2016,10,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",335,78,9.83,2.44,57.77,0,7.96,10,1,4662,702,161,2940,0,859
+2016,10,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",480,64,7.97,0,47.57,0.91,7.54,11,0,5102,258,0,4193,64,587
+2016,10,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",345,47,4.34,0,27.63,0,15.02,38,2,4268,118,0,1763,0,2387
+2016,10,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",395,48,5.38,0,37.56,0,5.06,2,0,3138,394,0,2342,0,402
+2016,10,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",837,105,11.01,0,81.55,0,12.44,11,0,5977,566,0,4067,0,1344
+2016,10,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",611,75,13.43,0,55.46,0,6.11,13,0,5202,1192,0,3520,0,490
+2016,10,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",232,29,1.16,0,18.55,0,9.29,5,0,2621,1341,0,690,0,590
+2016,10,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",248,33,1.66,0,25.76,0,5.58,7,0,4511,88,0,1646,0,2777
+2016,10,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",984,132,17.7,0,95.57,0,18.73,3,3,7547,1107,0,5406,0,1034
+2016,10,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",796,138,13.44,0.74,107.35,1,15.47,6,1,10497,3184,40,5659,25,1589
+2016,10,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",796,110,12.34,0.6,83.6,0,13.46,14,0,7707,863,17,5982,0,845
+2016,10,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",564,57,10.01,0,38.86,0,8.13,34,0,2995,617,0,2073,0,305
+2016,10,NK,Spirit Air Lines,EWR,"Newark, NJ: Newark Liberty International",8,3,0.88,0,2.12,0,0,0,1,157,64,0,93,0,0
+2016,10,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,71,4.02,1.81,61.34,1,2.82,18,2,5789,218,303,4705,16,547
+2016,10,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",248,39,5.69,0,28.33,0,4.99,1,0,2233,299,0,1368,0,566
+2016,10,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",542,52,8.67,0,30.57,1.2,11.55,7,0,2731,452,0,1682,25,572
+2016,10,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",124,24,2.11,0,19.89,0,2,0,0,1436,267,0,1072,0,97
+2016,10,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,4,0,0,3,0,1,2,0,191,0,0,167,0,24
+2016,10,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",57,6,2,0,3.09,0,0.91,0,0,1522,1098,0,308,0,116
+2016,10,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",248,29,3.71,0,18.48,0,6.81,1,1,1706,432,0,869,0,405
+2016,10,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186,19,0.29,0,17.79,0,0.92,1,0,739,6,0,686,0,47
+2016,10,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",178,24,2.57,0,18.49,0,2.94,2,0,1288,145,0,1065,0,78
+2016,10,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",23,9,2.09,0,4.36,0,2.55,2,0,323,73,0,114,0,136
+2016,10,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",379,43,4.64,0,33.51,0,4.86,3,0,2354,270,0,1840,0,244
+2016,10,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",69,6,3.02,0,2.35,0,0.63,8,0,329,139,0,175,0,15
+2016,10,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",23,4,0,0,4,0,0,3,0,156,0,0,156,0,0
+2016,10,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",124,24,2.8,0,17.57,0,3.63,0,0,1712,452,0,953,0,307
+2016,10,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",62,9,2.25,0,5.75,0,1,5,0,281,88,0,176,0,17
+2016,10,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",22,4,0.72,0,2.29,0,0.99,1,0,153,25,0,99,0,29
+2016,10,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",54,5,1,0,3,0,1,0,0,240,45,0,148,0,47
+2016,10,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",93,11,4.96,0.06,4.06,1.38,0.54,1,0,1099,583,3,455,32,26
+2016,11,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",707,69,19.67,0.09,30.51,0,18.73,3,0,5490,1046,2,2402,0,2040
+2016,11,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",473,54,10.72,0,25.64,0,17.64,0,0,3209,795,0,1247,0,1167
+2016,11,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",310,56,12.56,1.52,29.47,0,12.45,2,0,2843,782,70,1140,0,851
+2016,11,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",575,76,19.43,0.41,34.04,0,22.11,1,0,4343,942,32,1984,0,1385
+2016,11,NK,Spirit Air Lines,EWR,"Newark, NJ: Newark Liberty International",161,46,8.83,0,36.46,0,0.7,1,0,3117,695,0,2349,0,73
+2016,11,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",282,40,10.03,0.97,20.72,0,8.28,1,1,2809,535,307,1215,0,752
+2016,11,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",42,3,1.21,0,1.79,0,0,0,0,376,162,0,214,0,0
+2016,11,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",598,86,11.42,0,51.36,1,22.22,2,1,4087,627,0,1757,55,1648
+2016,11,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",766,107,21.88,1.55,62.58,0,20.98,10,0,8872,2694,152,3657,0,2369
+2016,11,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",98,15,4.67,0,6.56,0,3.77,2,0,593,259,0,226,0,108
+2016,11,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",365,61,13.89,0.75,32.44,0.44,13.48,0,0,2929,683,54,1011,8,1173
+2016,11,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",934,97,23.04,0,51.95,0,22.01,0,0,5800,1315,0,2531,0,1954
+2016,11,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",330,83,7.79,8.69,63.17,0,3.36,2,0,6976,959,930,4868,0,219
+2016,11,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",337,33,9.17,0,12.13,0,11.7,3,0,2663,583,0,658,0,1422
+2016,11,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",78,7,3.11,0,0.11,0,3.78,0,0,636,240,0,3,0,393
+2016,11,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1270,154,26.13,1.99,78.58,0.09,47.21,1,0,10760,1395,50,5057,11,4247
+2016,11,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",211,28,7.99,0,16.51,0,3.5,1,0,953,295,0,487,0,171
+2016,11,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",120,13,3.14,0,7.27,0,2.59,0,0,498,99,0,278,0,121
+2016,11,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",40,5,3.16,0,1.4,0,0.44,0,0,127,89,0,26,0,12
+2016,11,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",30,1,1,0,0,0,0,0,0,19,19,0,0,0,0
+2016,11,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",223,36,7.17,0,24.09,0,4.74,0,1,2182,420,0,1355,0,407
+2016,11,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",767,119,20.67,0.8,76.63,1.58,19.32,1,1,5652,1613,20,2826,70,1123
+2016,11,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",451,44,10.88,0,24.2,0,8.92,0,1,2172,373,0,1095,0,704
+2016,11,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",270,34,6.61,0,13.68,0,13.71,1,0,2645,522,0,695,0,1428
+2016,11,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",197,31,2.9,1.6,23.14,0.16,3.2,1,0,2601,791,137,1544,12,117
+2016,11,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",77,7,2.83,0,3.21,0,0.96,1,0,275,115,0,83,0,77
+2016,11,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",731,99,21.19,0,48.58,0,29.23,2,1,5560,1091,0,2281,0,2188
+2016,11,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",138,12,0.29,0,8.58,0,3.13,2,1,465,5,0,385,0,75
+2016,11,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",336,30,10.06,0,11.14,0,8.81,0,0,1879,1017,0,356,0,506
+2016,11,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",177,18,4.9,0,5.06,0,8.04,1,0,1440,163,0,353,0,924
+2016,11,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",218,23,5.35,0,10.01,0,7.64,0,0,1079,367,0,348,0,364
+2016,11,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",60,14,5.81,0,4.81,0,3.38,0,0,706,228,0,138,0,340
+2016,11,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",21,4,1,0,3,0,0,0,0,144,21,0,123,0,0
+2016,11,NK,Spirit Air Lines,CAK,"Akron, OH: Akron-Canton Regional",63,3,0,0,3,0,0,0,0,52,0,0,52,0,0
+2016,11,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",111,14,3.14,0,7.79,0,3.07,0,0,604,104,0,281,0,219
+2016,11,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",40,7,2.83,0,3.14,0,1.03,0,0,179,61,0,95,0,23
+2016,12,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1405,305,61.64,4.67,145.84,0.56,92.29,27,1,21561,6126,453,8092,19,6871
+2016,12,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",217,35,10.15,0,12.29,0,12.56,6,0,3282,1438,0,869,0,975
+2016,12,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",778,150,28.4,1.45,58.8,0.11,61.25,19,1,11948,2245,121,3890,2,5690
+2016,12,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",327,70,13.07,0,30.18,0,26.75,14,0,4271,810,0,1411,0,2050
+2016,12,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",508,109,35.94,1.46,35.46,1.13,35.01,13,0,8187,2238,138,2926,33,2852
+2016,12,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",155,44,17.96,1.31,17.51,0.68,6.55,0,0,2826,1278,106,881,21,540
+2016,12,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",961,321,64.74,6.1,173.24,0,76.92,17,2,19817,4622,444,9154,0,5597
+2016,12,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",124,30,2.93,0,19.99,0,7.08,1,0,1831,269,0,1083,0,479
+2016,12,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",217,58,13.1,0,23.01,0,21.88,4,1,5649,1772,0,2013,0,1864
+2016,12,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",124,54,8.11,0,22.55,0,23.34,1,0,3083,514,0,1111,0,1458
+2016,12,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",439,119,24.57,0.96,53.41,0,40.05,10,1,7967,1497,153,2756,0,3561
+2016,12,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",545,140,37.88,0.4,61.58,0.66,39.48,5,0,10787,3872,16,4013,60,2826
+2016,12,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",775,163,34.06,5.04,77.45,0,46.45,33,0,12202,2518,351,5319,0,4014
+2016,12,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",420,91,23.43,1.84,43.61,0.5,21.62,12,1,5824,1380,205,2699,14,1526
+2016,12,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",124,21,4.88,0.06,10.58,0,5.47,3,0,1038,247,5,402,0,384
+2016,12,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",823,175,42.2,4.83,84.31,0,43.66,15,3,10561,1887,466,4878,0,3330
+2016,12,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,72,17.35,3.52,43.73,0,7.41,4,0,4781,1573,211,2464,0,533
+2016,12,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",806,318,49.28,3.95,217.57,0.12,47.08,21,0,18278,2702,202,11933,3,3438
+2016,12,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",389,122,35.91,1.65,51.86,0,32.59,7,1,7662,2287,196,2549,0,2630
+2016,12,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",589,138,40.75,1.02,47.83,0.44,47.97,14,0,9235,2280,78,2852,18,4007
+2016,12,NK,Spirit Air Lines,EWR,"Newark, NJ: Newark Liberty International",186,70,13.75,0,52.67,0,3.58,7,0,4829,754,0,3740,0,335
+2016,12,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",323,70,23.51,0,25.18,0,21.31,6,0,4875,1153,0,1786,0,1936
+2016,12,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",62,16,6.47,0.82,5.41,0,3.3,0,0,1573,620,215,411,0,327
+2016,12,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,47,9.93,0.41,24.88,0,11.79,1,0,2731,557,42,1330,0,802
+2016,12,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",434,95,22.15,1.11,41.72,0,30.02,17,0,7460,1872,154,2608,0,2826
+2016,12,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",93,12,2.45,0,3.09,0,6.47,3,1,636,133,0,160,0,343
+2016,12,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",155,53,8.07,0,19.51,0,25.42,8,0,2973,339,0,1276,0,1358
+2016,12,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",22,9,4.87,0,3.52,0,0.61,1,0,514,367,0,128,0,19
+2016,12,NK,Spirit Air Lines,CAK,"Akron, OH: Akron-Canton Regional",93,13,4.42,0,4.94,0.89,2.75,1,1,714,231,0,313,31,139
+2016,12,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",341,90,21.72,0.13,44.19,0,23.96,7,0,6449,2450,15,2276,0,1708
+2016,12,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",62,25,2.14,0,12.63,0.04,10.19,1,0,1252,123,0,638,1,490
+2016,12,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",62,12,2.48,0,4.17,0,5.36,0,0,465,75,0,212,0,178
+2016,12,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",62,12,3.93,0,7.23,0,0.84,3,0,520,169,0,321,0,30
+2016,12,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,8,3.23,0,3.24,0,1.53,0,0,361,119,0,133,0,109
+2016,12,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",217,67,12.09,0,31.53,0,23.38,5,2,3604,802,0,1566,0,1236
+2016,12,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",92,30,15.3,0.53,9.79,1.72,2.67,0,0,1153,451,47,469,48,138
+2017,1,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",341,77,17.39,0,47.89,0,11.72,18,0,4585,1139,0,2536,0,910
+2017,1,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",589,145,17.3,0.32,99.15,0.88,27.36,26,1,9447,2115,7,5299,35,1991
+2017,1,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",341,65,11.81,0,42.17,0.88,10.14,22,0,4440,1229,0,2518,23,670
+2017,1,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",23,3,1,0,2,0,0,1,0,159,28,0,131,0,0
+2017,1,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",498,99,19.11,0.19,63.64,0,16.06,27,0,6475,962,12,3708,0,1793
+2017,1,NK,Spirit Air Lines,CAK,"Akron, OH: Akron-Canton Regional",93,11,1.35,0.04,8.97,0,0.65,4,1,991,146,6,623,0,216
+2017,1,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",217,44,6.55,1.08,26.87,0,9.5,4,0,2557,428,49,1431,0,649
+2017,1,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",341,89,9.01,1.92,66.58,0,11.49,8,0,5170,449,227,3649,0,845
+2017,1,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",549,117,16,0,81.34,0,19.65,13,2,10116,1424,0,7125,0,1567
+2017,1,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",778,167,24.05,0.95,116.04,0,25.96,19,0,10630,1829,140,7161,0,1500
+2017,1,NK,Spirit Air Lines,EWR,"Newark, NJ: Newark Liberty International",186,61,6.08,0,52.47,0.63,1.83,14,1,3033,165,0,2765,10,93
+2017,1,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1423,292,28.27,1.81,215.65,0.61,45.67,70,7,19682,1489,110,13982,17,4084
+2017,1,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",62,9,1.45,0,6.72,0,0.83,5,2,379,104,0,253,0,22
+2017,1,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",438,115,14.17,0,78.05,0,22.79,5,0,7236,1255,0,4192,0,1789
+2017,1,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",961,304,22.41,6.31,236.24,0,39.05,28,0,20299,1418,359,14608,0,3914
+2017,1,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",806,328,34.21,0.6,264.47,0.26,28.46,18,0,19638,2947,41,14149,7,2494
+2017,1,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",93,17,1.24,0.79,12.29,0,2.67,3,0,1024,42,80,762,0,140
+2017,1,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341,69,4.63,4.85,57.83,0,1.69,20,3,3929,267,301,3280,0,81
+2017,1,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",124,22,0.56,0,15.85,0,5.58,7,0,1351,19,0,1097,0,235
+2017,1,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",841,149,15.05,0.63,112.73,0.3,20.28,27,1,11549,1288,37,7806,10,2408
+2017,1,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",403,98,14.68,2.28,59.72,0,21.32,8,0,5952,892,126,3145,0,1789
+2017,1,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",217,48,4.5,0.04,33.71,0,9.74,5,0,3423,410,1,2149,0,863
+2017,1,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",155,24,1.57,0,20.37,0,2.06,13,0,1236,70,0,973,0,193
+2017,1,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",155,49,5,0,32.25,0,11.75,2,0,3238,406,0,2110,0,722
+2017,1,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",774,174,21.97,3.92,115.96,0.13,32.03,20,0,13845,2532,630,7727,2,2954
+2017,1,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",62,9,2.52,0.14,5.66,0,0.68,3,0,556,248,7,248,0,53
+2017,1,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",62,11,2.29,0,6.37,0,2.34,3,0,587,211,0,240,0,136
+2017,1,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",62,18,0.4,0,14.85,0,2.74,2,0,817,37,0,634,0,146
+2017,1,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",217,46,5.93,0,33.22,0,6.85,8,0,2896,284,0,2264,0,348
+2017,1,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124,42,6.9,0.11,26.42,0,8.57,2,0,2210,361,14,1223,0,612
+2017,1,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",440,72,8.6,0.1,56.22,0,7.08,14,1,4370,492,4,3369,0,505
+2017,1,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",124,35,3.15,0,28.25,0,3.59,6,0,2512,259,0,1827,0,426
+2017,1,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",124,33,2.97,0,20.44,0,9.59,2,0,1965,202,0,1165,0,598
+2017,1,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",124,20,3.56,0,15.84,0,0.6,1,0,1525,68,0,1448,0,9
+2017,1,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31,5,2.01,0,2.23,0,0.76,1,0,447,254,0,167,0,26
+2017,1,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",451,90,14.18,0.21,58.64,0,16.96,12,0,6380,1383,15,3871,0,1111

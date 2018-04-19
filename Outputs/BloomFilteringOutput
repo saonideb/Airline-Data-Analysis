@@ -1,0 +1,30 @@
+340,Frankfurt am Main International Airport,Frankfurt,Germany,FRA,EDDF,50.0333333,8.5705556,364,1,E,Europe/Berlin,airport,OurAirports
+507,London Heathrow Airport,London,United Kingdom,LHR,EGLL,51.4706,-0.461941,83,0,E,Europe/London,airport,OurAirports
+580,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EHAM,52.3086013794,4.7638897896,-11,1,E,Europe/Amsterdam,airport,OurAirports
+1229,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LEMD,40.471926,-3.56264,1998,1,E,Europe/Madrid,airport,OurAirports
+1382,Charles de Gaulle International Airport,Paris,France,CDG,LFPG,49.0127983093,2.5499999523,392,1,E,Europe/Paris,airport,OurAirports
+1701,Atatürk International Airport,Istanbul,Turkey,IST,LTBA,40.9768981934,28.8145999908,163,3,E,Europe/Istanbul,airport,OurAirports
+2188,Dubai International Airport,Dubai,United Arab Emirates,DXB,OMDB,25.2527999878,55.3643989563,62,4,U,Asia/Dubai,airport,OurAirports
+2359,Tokyo Haneda International Airport,Tokyo,Japan,HND,RJTT,35.552299,139.779999,35,9,U,Asia/Tokyo,airport,OurAirports
+3077,Chek Lap Kok International Airport,Hong Kong,Hong Kong,HKG,VHHH,22.3089008331,113.915000916,28,8,U,Asia/Hong_Kong,airport,OurAirports
+3093,Indira Gandhi International Airport,Delhi,India,DEL,VIDP,28.5664997101,77.1031036377,777,5.5,N,Asia/Calcutta,airport,OurAirports
+3275,Soekarno-Hatta International Airport,Jakarta,Indonesia,CGK,WIII,-6.1255698204,106.65599823,34,7,N,Asia/Jakarta,airport,OurAirports
+3304,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,KUL,WMKK,2.745579958,101.7099990845,69,8,N,Asia/Kuala_Lumpur,airport,OurAirports
+3316,Singapore Changi Airport,Singapore,Singapore,SIN,WSSS,1.35019,103.994003,22,8,N,Asia/Singapore,airport,OurAirports
+3364,Beijing Capital International Airport,Beijing,China,PEK,ZBAA,40.0801010132,116.5849990845,116,8,U,Asia/Shanghai,airport,OurAirports
+3370,Guangzhou Baiyun International Airport,Guangzhou,China,CAN,ZGGG,23.3924007416,113.2990036011,50,8,U,Asia/Shanghai,airport,OurAirports
+3406,Shanghai Pudong International Airport,Shanghai,China,PVG,ZSPD,31.1434001923,121.8050003052,13,8,U,Asia/Shanghai,airport,OurAirports
+3462,Phoenix Sky Harbor International Airport,Phoenix,United States,PHX,KPHX,33.434299469,-112.0120010376,1135,-7,N,America/Phoenix,airport,OurAirports
+3469,San Francisco International Airport,San Francisco,United States,SFO,KSFO,37.6189994812,-122.375,13,-8,A,America/Los_Angeles,airport,OurAirports
+3484,Los Angeles International Airport,Los Angeles,United States,LAX,KLAX,33.94250107,-118.4079971,125,-8,A,America/Los_Angeles,airport,OurAirports
+3550,George Bush Intercontinental Houston Airport,Houston,United States,IAH,KIAH,29.9843997955,-95.3414001465,97,-6,A,America/Chicago,airport,OurAirports
+3576,Miami International Airport,Miami,United States,MIA,KMIA,25.7931995392,-80.2906036377,8,-5,A,America/New_York,airport,OurAirports
+3670,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,DFW,KDFW,32.8968009949,-97.0380020142,607,-6,A,America/Chicago,airport,OurAirports
+3682,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,ATL,KATL,33.6366996765,-84.4281005859,1026,-5,A,America/New_York,airport,OurAirports
+3751,Denver International Airport,Denver,United States,DEN,KDEN,39.8616981506,-104.672996521,5431,-7,A,America/Denver,airport,OurAirports
+3797,John F Kennedy International Airport,New York,United States,JFK,KJFK,40.63980103,-73.77890015,13,-5,A,America/New_York,airport,OurAirports
+3830,Chicago O'Hare International Airport,Chicago,United States,ORD,KORD,41.97859955,-87.90480042,672,-6,A,America/Chicago,airport,OurAirports
+3876,Charlotte Douglas International Airport,Charlotte,United States,CLT,KCLT,35.2140007019,-80.9430999756,748,-5,A,America/New_York,airport,OurAirports
+3877,McCarran International Airport,Las Vegas,United States,LAS,KLAS,36.08010101,-115.1520004,2181,-8,A,America/Los_Angeles,airport,OurAirports
+3885,Suvarnabhumi Airport,Bangkok,Thailand,BKK,VTBS,13.6810998917,100.747001648,5,7,U,Asia/Bangkok,airport,OurAirports
+3930,Incheon International Airport,Seoul,South Korea,ICN,RKSI,37.4691009521,126.4509963989,23,9,U,Asia/Seoul,airport,OurAirports
